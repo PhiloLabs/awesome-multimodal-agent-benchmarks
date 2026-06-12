@@ -109,6 +109,7 @@ The most-cited / most-used benchmarks at a glance. Sizes are approximate.
 
 ## Video Understanding Agents
 
+- [GameplayQA](https://arxiv.org/abs/2603.24329) — Decision-dense POV-synced multi-video understanding of 3D agents; ~2.4K QA, 15 tasks. `paper` `code` `dataset`
 - [LVBench](https://arxiv.org/abs/2406.08035) — Extreme long-video understanding requiring agentic retrieval + reasoning over hours. `paper` `code`
 - [VideoAgent benchmarks (NExT-QA / EgoSchema agentic split)](https://arxiv.org/abs/2403.10517) — Long-form video understanding with LLM-as-agent over frames. `paper` `code`
 - [Video-MME (agentic subset)](https://arxiv.org/abs/2405.21075) — Used as a probe for tool-using video agents; full set is QA, agentic systems are the standard SOTA. `paper` `leaderboard`
