@@ -78,6 +78,7 @@ The most-cited / most-used benchmarks at a glance. Sizes are approximate.
 
 ## Web Agents
 
+- [ClawBench](https://arxiv.org/abs/2604.08523) — 283 live-web tasks with execution scoring. `paper` `code`
 - [Mind2Web 2](https://arxiv.org/abs/2506.21506) — 130 long-horizon agentic-search tasks evaluated with an Agent-as-a-Judge rubric. `paper` `code`
 - [MM-BrowseComp](https://arxiv.org/abs/2508.13186) — Multimodal browsing benchmark; reverse image search and image-grounded retrieval. `paper` `code`
 - [Online-Mind2Web](https://arxiv.org/abs/2504.01382) — 300 live-web tasks across 136 sites; reveals overstated progress on static benchmarks. `paper` `code`
