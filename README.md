@@ -65,6 +65,7 @@ The most-cited / most-used benchmarks at a glance. Sizes are approximate.
 
 ## GUI & Computer-Use Agents
 
+- [Next-Gen CAPTCHAs](https://arxiv.org/abs/2602.09012) — Evaluates GUI agents on interactive CAPTCHAs. `paper` `code`
 - [OSWorld-Human](https://arxiv.org/abs/2506.16042) — Gold human trajectories for every OSWorld task; measures agent step-efficiency. `paper` `code`
 - [OSWorld-G / Jedi](https://arxiv.org/abs/2505.13227) — Fine-grained GUI grounding suite (564 samples) paired with the Jedi training set. `paper` `code`
 - [ScreenSpot-Pro](https://arxiv.org/abs/2504.07981) — High-res professional GUI grounding across 23 pro apps, 5 domains, 3 OSes. `paper` `code`
